@@ -33,3 +33,7 @@ $$
 $$
 
 ![equation](https://user-images.githubusercontent.com/1296728/222448037-5d165653-4ce6-4b14-9ed9-63d872e8ceb5.png)
+
+得た方程式から近似方程式を考えます。区間を分割し、その上で以下のような区分一次関数を考えます
+
+
