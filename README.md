@@ -29,7 +29,7 @@ $$
 以下の方程式を得ます
 
 $$
-(\frac{d}{dx}u,\frac{d}{dx}v)=f
+(\frac{d}{dx}u,\frac{d}{dx}v)=(f,v)
 $$
 
 ![equation](https://user-images.githubusercontent.com/1296728/222448037-5d165653-4ce6-4b14-9ed9-63d872e8ceb5.png)
