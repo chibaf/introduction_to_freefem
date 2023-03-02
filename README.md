@@ -74,6 +74,8 @@ $$
 
 $\frac{\partial}{\partial n}$は法線方向微分。
 
+<img width="1121" alt="boundary-pic" src="https://user-images.githubusercontent.com/1296728/222585355-ffd49aaa-48b3-41e0-b394-57a33d57ff4f.png">
+
 $$
 \begin{eqnarray*}
 \begin{array}{l}
