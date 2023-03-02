@@ -70,3 +70,5 @@ $$
 $$
 \int_\Omega \Delta u(x) v(x) dx=\int_{\partial \Omega}\frac{\partial u}{\partial n}(x)v(x)d\sigma-\int_\Omega \nabla u\cdot \nabla v dx
 $$
+
+$\frac{\partial}{\partial n}$は法線方向微分。
