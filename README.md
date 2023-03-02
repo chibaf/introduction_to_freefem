@@ -74,6 +74,7 @@ $$
 
 $\frac{\partial}{\partial n}$は法線方向微分。
 
+$$
 \begin{eqnarray*}
 \begin{array}{l}
 \Gamma_1: x=t,y=0,\quad R_1 \le t \le R_2 \\
@@ -82,3 +83,4 @@ $\frac{\partial}{\partial n}$は法線方向微分。
 \Gamma_4: x=R_1 \cos t,y=R_1 \sin t,\quad -\pi \le t \le 0
 \end{array}
 \end{eqnarray*}
+$$
