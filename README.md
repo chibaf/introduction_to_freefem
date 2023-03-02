@@ -73,3 +73,12 @@ $$
 $$
 
 $\frac{\partial}{\partial n}$は法線方向微分。
+
+\begin{eqnarray*}
+\begin{array}{l}
+\Gamma_1: x=t,y=0,\quad R_1 \le t \le R_2 \\
+\Gamma_2: x=R_2 \cos t, y=R_2 \sin t, \quad 0 \le t \le \pi \\
+\Gamma_3: x=t,y=0,\quad -R_2 \le t \le -R_1 \\
+\Gamma_4: x=R_1 \cos t,y=R_1 \sin t,\quad -\pi \le t \le 0
+\end{array}
+\end{eqnarray*}
