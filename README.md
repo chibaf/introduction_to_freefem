@@ -1,6 +1,4 @@
 # introduction_to_freefem
-introduction to freefem
-
 
 FreeFemの使い方を解説します。
 
