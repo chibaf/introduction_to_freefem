@@ -7,4 +7,4 @@ border g2(t=0,pi){x=R2*cos(t);y=R2*sin(t);};
 border g3(t=-R2,-R1){x=t;y=0;};
 border g4(t=0,pi){x=R1*cos(pi-t);y=R1*sin(pi-t);};
 
-plot(g1(nn),g2(nn),g3(nn),g4(nn));
+plot(g1(nn),g2(nn),g3(nn),g4(nn),dim=2);
