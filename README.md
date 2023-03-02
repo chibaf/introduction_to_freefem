@@ -45,3 +45,5 @@ $$
 最後に以下の連立方程式を得ます
 
 ![FreeFEM -8](https://user-images.githubusercontent.com/1296728/222481653-f6e6b827-801d-4bf5-b324-b95ef6584c89.jpg)
+
+と言うことで、近似解を求める問題が連立一次方程式を求めることに帰着されました
