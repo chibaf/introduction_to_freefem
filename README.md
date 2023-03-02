@@ -49,3 +49,6 @@ $$
 と言うことで、近似解を求める問題が連立一次方程式を求めることに帰着されました
 
 いろいろ説明を端折ってます。こんな感じと思っていただければ充分です。
+
+有限要素法の入門を明治大学の桂田先生がpdfで公開しています。
+http://nalab.mind.meiji.ac.jp/~mk/lecture/ouyousuuchikaisekitokuron-2015/fem.pdf
