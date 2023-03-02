@@ -42,4 +42,6 @@ $$
 
 ![FreeFEM -7](https://user-images.githubusercontent.com/1296728/222481484-162aae4e-d3b8-4b05-9c9b-360a4eabbc39.jpg)
 
+最後に以下の連立方程式を得ます
+
 ![FreeFEM -8](https://user-images.githubusercontent.com/1296728/222481653-f6e6b827-801d-4bf5-b324-b95ef6584c89.jpg)
