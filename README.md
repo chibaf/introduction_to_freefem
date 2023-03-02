@@ -16,6 +16,10 @@ freefem.org
 
 以下の問題を有限要素法で解くことを考えます。
 
+$$
+-\frac{d^2}{dx^2}u=f
+$$
+
 ![equation](https://user-images.githubusercontent.com/1296728/222445685-818dcefb-7240-4920-9067-21165ebf7c21.png)
 
 この方程式を内積をとって変形します
@@ -23,3 +27,5 @@ freefem.org
 ![FreeFEM -4](https://user-images.githubusercontent.com/1296728/222446189-ac1d73e2-1106-4a25-a03c-72df6d2d0acb.jpg)
 
 以下の方程式を得ます
+
+
