@@ -60,11 +60,13 @@ FreeFemですが、これで特に重要なのは境界と境界条件の設定�
 有限要素法では弱形式にして部分積分で微分の階数を下げることをやります。これをやると、近似に使う基底関数の次数を低く取れると言う利点があります。
 
 部分積分１次元
+
 $$
 \int^b_a u''v\,dx=\left[u'v\right]^b_a-\int^b_a u'v\,'dx
 $$
 
 ２次元
+
 $$
 \int_\Omega \Delta u(x) v(x) dx=\int_{\partial \Omega}\frac{\partial u}{\partial n}(x)v(x)d\sigma-\int_\Omega \nabla u\cdot \nabla v dx
 $$
