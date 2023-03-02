@@ -21,3 +21,5 @@ freefem.org
 この方程式を内積をとって変形します
 
 ![FreeFEM -4](https://user-images.githubusercontent.com/1296728/222446189-ac1d73e2-1106-4a25-a03c-72df6d2d0acb.jpg)
+
+以下の方程式を得ます
