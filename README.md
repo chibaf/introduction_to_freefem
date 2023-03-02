@@ -39,3 +39,6 @@ $$
 ![FreeFEM 0 4](https://user-images.githubusercontent.com/1296728/222480868-270f19a9-a90e-4190-a425-dd64db8527d6.jpg)
 
 近似解がこの区分一次関数の線形結合で表されるとして、これを先の方程式に代入します
+
+![FreeFEM -7](https://user-images.githubusercontent.com/1296728/222481484-162aae4e-d3b8-4b05-9c9b-360a4eabbc39.jpg)
+
