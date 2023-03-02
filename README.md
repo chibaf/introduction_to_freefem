@@ -16,3 +16,4 @@ freefem.org
 
 以下の問題を有限要素法で解くことを考えます。
 
+![equation](https://user-images.githubusercontent.com/1296728/222445685-818dcefb-7240-4920-9067-21165ebf7c21.png)
