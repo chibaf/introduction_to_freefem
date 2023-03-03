@@ -80,6 +80,7 @@ $\frac{\partial}{\partial n}$は法線方向微分。
 
 ![FreeFEM -11](https://user-images.githubusercontent.com/1296728/222694848-e69d65b1-5380-4eae-9560-21341ad3b58b.jpg)
 
+境界を$\Gamma_1$,$\Gamma_2$,$\Gamma_3$,$\Gamma_4$の４つの部分で考えます。これらは以下のようにパラメータ表示できます。
 
 $$
 \begin{eqnarray*}
