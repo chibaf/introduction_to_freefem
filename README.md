@@ -102,3 +102,9 @@ $$
 
 <img width="433" alt="freefem-boundary-1" src="https://user-images.githubusercontent.com/1296728/222696954-16491f3c-0c8f-49a6-80df-1a3a81d973a5.png">
 
+ここまでくると、メッシュ生成は以下のコードでできます
+
+<img width="443" alt="mesh-gen-1" src="https://user-images.githubusercontent.com/1296728/222697658-2edcb508-9be2-48e9-9114-d017ab7dae85.png">
+
+
+<img width="443" alt="mesh-gen-1" src="https://user-images.githubusercontent.com/1296728/222697658-2edcb508-9be2-48e9-9114-d017ab7dae85.png">
