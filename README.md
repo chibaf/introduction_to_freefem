@@ -106,4 +106,4 @@ $$
 
 <img width="443" alt="mesh-gen-1" src="https://user-images.githubusercontent.com/1296728/222697658-2edcb508-9be2-48e9-9114-d017ab7dae85.png">
 
-<img width="443" alt="mesh-gen-1" src="https://user-images.githubusercontent.com/1296728/222698412-8367af01-cd05-4662-ab97-435241774790.png">
+<img width="1121" alt="freefem-mesh-1" src="https://user-images.githubusercontent.com/1296728/222698671-3130c8a5-e562-4b4a-a5bf-0dccbeffe66e.png">
