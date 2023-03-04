@@ -74,7 +74,9 @@ $$
 
 $\frac{\partial}{\partial n}$は法線方向微分。
 
-以下の領域で方程式 $-\Delta u=f$ を解くことを考えます
+# メッシュ生成
+
+以下のような境界を持った領域をfreefemでメッシュ分割します
 
 boundary-freefem.edp: 境界の作図
 
