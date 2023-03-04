@@ -78,7 +78,7 @@ $\frac{\partial}{\partial n}$は法線方向微分。
 
 以下のような境界を持った領域をfreefemでメッシュ分割します
 
-boundary-freefem.edp: 境界の作図
+コード：boundary-freefem.edp: 境界の作図
 
 <img width="1121" alt="boundary-pic" src="https://user-images.githubusercontent.com/1296728/222585355-ffd49aaa-48b3-41e0-b394-57a33d57ff4f.png">
 
@@ -106,6 +106,6 @@ $$
 
 <img width="443" alt="mesh-gen-1" src="https://user-images.githubusercontent.com/1296728/222697658-2edcb508-9be2-48e9-9114-d017ab7dae85.png">
 
-mesh-freefem.edp: メッシュ生成
+コード：mesh-freefem.edp: メッシュ生成
 
 <img width="1121" alt="freefem-mesh-1" src="https://user-images.githubusercontent.com/1296728/222698671-3130c8a5-e562-4b4a-a5bf-0dccbeffe66e.png">
