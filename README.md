@@ -97,7 +97,7 @@ $$
 \end{eqnarray*}
 $$
 
-これらの曲線は向きを持ってます。繋ぐと、半時計まわりの閉曲線になります。これをfreefemの命令で表すと
+これらの曲線は向きを持ってます。繋ぐと、反時計まわりの閉曲線になります。これをfreefemの命令で表すと
 
 <img width="433" alt="freefem-boundary-1" src="https://user-images.githubusercontent.com/1296728/222696954-16491f3c-0c8f-49a6-80df-1a3a81d973a5.png">
 
