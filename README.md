@@ -81,6 +81,8 @@ $\frac{\partial}{\partial n}$は法線方向微分。
 
 以下の領域で方程式 $-\Delta u=f$ を解くことを考えます
 
+boundary-freefem.edp:境界の作図
+
 <img width="1121" alt="boundary-pic" src="https://user-images.githubusercontent.com/1296728/222585355-ffd49aaa-48b3-41e0-b394-57a33d57ff4f.png">
 
 ![FreeFEM -11](https://user-images.githubusercontent.com/1296728/222694848-e69d65b1-5380-4eae-9560-21341ad3b58b.jpg)
